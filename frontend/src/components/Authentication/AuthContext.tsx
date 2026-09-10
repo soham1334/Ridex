@@ -19,7 +19,7 @@ useEffect(() => {
 
     try {
 
-      const response = await api.post(
+       await api.post(
         "/api/user/auth/refresh"
       )
 
