@@ -305,7 +305,7 @@ RideX/
 ## 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/RideX.git
+git clone https://github.com/soham1334/RideX.git
 ```
 
 ```bash
