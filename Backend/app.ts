@@ -25,7 +25,7 @@ ConnectDB();
 
 app.use(
   cors({
-    origin: "http://localhost:5173",
+    origin: process.env.FRONTEND_URL,
     credentials: true,
   })
 )
@@ -45,6 +45,8 @@ app.use(bookingRouter);
 app.use(adminAccessCtrl)
 app.use(adminRouter);
 
-app.listen(5000,()=>{
-    console.log('http://localhost:5000 server is live !')
+const PORT = process.env.PORT || 5000
+
+app.listen(PORT, () => {
+    console.log(`Server is running on port ${PORT}`)
 })
