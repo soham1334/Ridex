@@ -1,0 +1,243 @@
+[
+  {
+    "company": "Hyundai",
+    "model": "Creta",
+    "ownerId": "507f1f77bcf86cd799439011",
+    "vehicleNo": "MH12AB1234",
+    "images": [
+      "https://images.unsplash.com/photo-1606664515524-ed2f786a0bd6?auto=format&fit=crop&w=900&q=80"
+    ],
+    "rent": 899,
+    "rating": 4.8,
+    "reviews": 124,
+    "fuel": "Petrol",
+    "transmission": "Automatic",
+    "seats": 5,
+    "mileage": 17,
+    "age": 2,
+    "distanceCovered": 28400,
+    "description": "A comfortable and stylish SUV perfect for city drives, family trips and weekend getaways. The automatic transmission makes driving easy while the spacious cabin comfortably accommodates up to 5 passengers.",
+    "isListed": true
+  },
+  {
+    "company": "Mahindra",
+    "model": "Thar",
+    "ownerId": "507f1f77bcf86cd799439011",
+    "vehicleNo": "MH14CD5678",
+    "images": [
+      "https://images.unsplash.com/photo-1625231334168-35067f8853f1?auto=format&fit=crop&w=900&q=80"
+    ],
+    "rent": 999,
+    "rating": 4.9,
+    "reviews": 98,
+    "fuel": "Diesel",
+    "transmission": "Manual",
+    "seats": 4,
+    "mileage": 15,
+    "age": 1,
+    "distanceCovered": 16200,
+    "description": "A rugged SUV built for adventurous road trips and weekend escapes. With its strong road presence, capable engine and comfortable cabin, the Thar is ideal for exploring beyond the city.",
+    "isListed": true
+  },
+  {
+    "company": "Toyota",
+    "model": "Fortuner",
+    "ownerId": "507f1f77bcf86cd799439011",
+    "vehicleNo": "MH01EF9012",
+    "images": [
+      "https://images.unsplash.com/photo-1583121274602-3e2820c69888?auto=format&fit=crop&w=900&q=80"
+    ],
+    "rent": 1499,
+    "rating": 4.7,
+    "reviews": 87,
+    "fuel": "Diesel",
+    "transmission": "Automatic",
+    "seats": 7,
+    "mileage": 14,
+    "age": 3,
+    "distanceCovered": 41600,
+    "description": "A premium full-size SUV offering generous space, powerful performance and a comfortable driving experience. Perfect for family vacations, long-distance travel and premium city rides.",
+    "isListed": true
+  },
+  {
+    "company": "Maruti Suzuki",
+    "model": "Swift",
+    "ownerId": "507f1f77bcf86cd799439011",
+    "vehicleNo": "MH02GH3456",
+    "images": [
+      "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?auto=format&fit=crop&w=900&q=80"
+    ],
+    "rent": 699,
+    "rating": 4.6,
+    "reviews": 156,
+    "fuel": "Petrol",
+    "transmission": "Manual",
+    "seats": 5,
+    "mileage": 22,
+    "age": 2,
+    "distanceCovered": 22100,
+    "description": "A compact and economical hatchback that's perfect for everyday city travel. Easy to drive, fuel efficient and comfortable for small families and groups.",
+    "isListed": true
+  },
+  {
+    "company": "Tata",
+    "model": "Nexon",
+    "ownerId": "507f1f77bcf86cd799439011",
+    "vehicleNo": "MH03JK7890",
+    "images": [
+      "https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?auto=format&fit=crop&w=900&q=80"
+    ],
+    "rent": 799,
+    "rating": 4.7,
+    "reviews": 113,
+    "fuel": "Petrol",
+    "transmission": "Manual",
+    "seats": 5,
+    "mileage": 17,
+    "age": 1,
+    "distanceCovered": 12800,
+    "description": "A practical compact SUV combining comfort, safety and modern features. A great choice for city commutes as well as weekend road trips.",
+    "isListed": true
+  },
+  {
+    "company": "Kia",
+    "model": "Seltos",
+    "ownerId": "507f1f77bcf86cd799439011",
+    "vehicleNo": "MH04LM1234",
+    "images": [
+      "https://images.unsplash.com/photo-1606664515524-ed2f786a0bd6?auto=format&fit=crop&w=900&q=80"
+    ],
+    "rent": 949,
+    "rating": 4.8,
+    "reviews": 141,
+    "fuel": "Petrol",
+    "transmission": "Automatic",
+    "seats": 5,
+    "mileage": 17,
+    "age": 2,
+    "distanceCovered": 19600,
+    "description": "A modern SUV with a refined interior, comfortable seating and smooth automatic transmission. Ideal for both daily driving and longer journeys.",
+    "isListed": true
+  },
+  {
+    "company": "Honda",
+    "model": "City",
+    "ownerId": "507f1f77bcf86cd799439011",
+    "vehicleNo": "MH05NP5678",
+    "images": [
+      "https://images.unsplash.com/photo-1550355291-bbee04a92027?auto=format&fit=crop&w=900&q=80"
+    ],
+    "rent": 749,
+    "rating": 4.7,
+    "reviews": 132,
+    "fuel": "Petrol",
+    "transmission": "Manual",
+    "seats": 5,
+    "mileage": 18,
+    "age": 3,
+    "distanceCovered": 37200,
+    "description": "A refined sedan offering a smooth ride, spacious cabin and comfortable seating. Well suited for business travel, city driving and family journeys.",
+    "isListed": true
+  },
+  {
+    "company": "Volkswagen",
+    "model": "Virtus",
+    "ownerId": "507f1f77bcf86cd799439011",
+    "vehicleNo": "MH06QR9012",
+    "images": [
+      "https://images.unsplash.com/photo-1502877338535-766e1452684a?auto=format&fit=crop&w=900&q=80"
+    ],
+    "rent": 849,
+    "rating": 4.8,
+    "reviews": 76,
+    "fuel": "Petrol",
+    "transmission": "Automatic",
+    "seats": 5,
+    "mileage": 18,
+    "age": 1,
+    "distanceCovered": 9400,
+    "description": "A stylish and engaging sedan offering a premium cabin, smooth automatic transmission and confident highway performance. Great for both city and highway travel.",
+    "isListed": true
+  },
+  {
+    "company": "MG",
+    "model": "Hector",
+    "ownerId": "507f1f77bcf86cd799439011",
+    "vehicleNo": "MH07ST3456",
+    "images": [
+      "https://images.unsplash.com/photo-1542362567-b07e54358753?auto=format&fit=crop&w=900&q=80"
+    ],
+    "rent": 1099,
+    "rating": 4.6,
+    "reviews": 64,
+    "fuel": "Petrol",
+    "transmission": "Automatic",
+    "seats": 5,
+    "mileage": 15,
+    "age": 2,
+    "distanceCovered": 24500,
+    "description": "A spacious and feature-rich SUV designed for comfortable family journeys. Its large cabin and premium interiors make it a great choice for longer trips.",
+    "isListed": true
+  },
+  {
+    "company": "BMW",
+    "model": "3 Series",
+    "ownerId": "507f1f77bcf86cd799439011",
+    "vehicleNo": "MH08UV7890",
+    "images": [
+      "https://images.unsplash.com/photo-1555215695-3004980ad54e?auto=format&fit=crop&w=900&q=80"
+    ],
+    "rent": 1999,
+    "rating": 4.9,
+    "reviews": 52,
+    "fuel": "Petrol",
+    "transmission": "Automatic",
+    "seats": 5,
+    "mileage": 14,
+    "age": 2,
+    "distanceCovered": 18400,
+    "description": "A premium luxury sedan delivering a refined interior, powerful performance and an engaging driving experience. Ideal for business trips, special occasions and premium travel.",
+    "isListed": true
+  },
+  {
+    "company": "Mercedes-Benz",
+    "model": "C-Class",
+    "ownerId": "507f1f77bcf86cd799439011",
+    "vehicleNo": "MH09WX1234",
+    "images": [
+      "https://images.unsplash.com/photo-1618843479619-f3d0c8d4f5b7?auto=format&fit=crop&w=900&q=80"
+    ],
+    "rent": 2299,
+    "rating": 4.9,
+    "reviews": 43,
+    "fuel": "Petrol",
+    "transmission": "Automatic",
+    "seats": 5,
+    "mileage": 13,
+    "age": 1,
+    "distanceCovered": 8200,
+    "description": "A luxury sedan combining elegant design, premium comfort and sophisticated performance. A perfect option when you want a more luxurious rental experience.",
+    "isListed": true
+  },
+  {
+    "company": "Tata",
+    "model": "Safari",
+    "ownerId": "507f1f77bcf86cd799439011",
+    "vehicleNo": "MH10YZ5678",
+    "images": [
+      "https://images.unsplash.com/photo-1519641471654-76ce0107ad1b?auto=format&fit=crop&w=900&q=80"
+    ],
+    "rent": 1199,
+    "rating": 4.8,
+    "reviews": 91,
+    "fuel": "Diesel",
+    "transmission": "Manual",
+    "seats": 7,
+    "mileage": 16,
+    "age": 2,
+    "distanceCovered": 27300,
+    "description": "A spacious seven-seater SUV designed for comfortable family travel. With plenty of cabin space and practical features, it's well suited for long road trips.",
+    "isListed": true
+  }
+]
+
